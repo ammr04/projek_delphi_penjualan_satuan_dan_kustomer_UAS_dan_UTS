@@ -1,5 +1,5 @@
-# Project Delphi Aplikasi Penjualan
+# Project Tugas Delphi
 
 >[!note]
-> Ahmad Syaifuddin - 2210010111 (Tugas UTS dan UAS)
+> Muhammad Ammar Dzakki - 2210010463 (Tugas UTS dan UAS)
  
